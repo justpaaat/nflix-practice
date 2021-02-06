@@ -36,6 +36,8 @@ export default function FooterContainer() {
           <Footer.Link href="#">Legal notices</Footer.Link>
         </Footer.Column>
       </Footer.Row>
+      <Footer.Break />
+      <Footer.Text>Netflix Germany</Footer.Text>
     </Footer>
   );
 }
